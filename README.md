@@ -1,5 +1,14 @@
-# 📌 Cara Menjalankan Dashboard
+# 🚴‍♂️ Dashboard Penyewaan Sepeda  
 
+Dashboard ini dikembangkan menggunakan **Streamlit** untuk menganalisis dan memvisualisasikan data penyewaan sepeda berdasarkan berbagai faktor lingkungan dan kondisi cuaca.  
+
+## 📌 Fitur Dashboard  
+✅ **Tren Penyewaan Sepeda**: Menampilkan pola penyewaan berdasarkan hari kerja dan akhir pekan.  
+✅ **Faktor Lingkungan**: Analisis hubungan antara suhu, kelembapan, dan kecepatan angin terhadap jumlah penyewaan.  
+✅ **Pengaruh Kondisi Cuaca**: Melihat bagaimana kondisi cuaca (cerah, berkabut, hujan) mempengaruhi penyewaan sepeda.  
+✅ **Filter Interaktif**: Memilih bulan dan hari kerja/akhir pekan untuk analisis yang lebih spesifik.
+
+# 📌 Cara Menjalankan Dashboard
 ## 1️⃣ Clone Repository
 Jika belum memiliki kode, clone repository ini terlebih dahulu:
 
