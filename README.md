@@ -4,7 +4,7 @@
 Jika belum memiliki kode, clone repository ini terlebih dahulu:
 
 ```bash
-git clone [https://github.com/your-username/streamlit-bike-rental.git](https://github.com/AlwanFauzi/dashboard-analisis-penyewaansepeda.git)
+git clone https://github.com/AlwanFauzi/dashboard-analisis-penyewaansepeda.git
 cd dashboard-analisis-penyewaansepeda
 ```
 
@@ -19,7 +19,7 @@ conda activate main-ds
 Pastikan semua dependensi sudah terinstal dengan menjalankan perintah:
 
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 4️⃣ Jalankan Aplikasi Streamlit
